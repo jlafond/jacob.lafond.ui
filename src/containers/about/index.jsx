@@ -2,6 +2,8 @@ import React from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
 import moment from "moment";
 import { Animate } from "react-simple-animate";
+import { FaBicycle, FaBreadSlice, FaDev, FaDatabase } from 'react-icons/fa';
+
 import "./styles.scss";
 
 const About =()=>{
@@ -59,13 +61,29 @@ const About =()=>{
                     </Animate>
                 </div>
                 <div className="about__content__image-wrapper">
-                    <Animate play duration={.5} delay={0}
-                    start={{transform : "translateX(1000px)"}}
-                    end={{transform : "translateX(0px)"}}>
-                        <div className="image-wrapper">
-                            <img src='/images/passportphoto.jpg' alt="happy family in cornfield" />
-                        </div>
-                    </Animate>
+                    <div className="image-wrapper__content">
+                        <Animate play duration={.5} delay={0}
+                        start={{transform : "translateX(1000px)"}}
+                        end={{transform : "translateX(0px)"}}>
+                            <div className="image-bg">
+                                <div className="image-wrapper">
+                                    <div>
+                                        <FaDev size={60} color="var(--main-theme-main-color)" />
+                                    </div>
+                                    <div>
+                                        <FaBreadSlice size={60} color="var(--main-theme-main-color)" />
+                                    </div>
+                                    <div>
+                                        <FaBicycle size={60} color="var(--main-theme-main-color)" />
+                                    </div>
+                                    <div>
+                                        <FaDatabase size={60} color="var(--main-theme-main-color)" />
+                                    </div>
+                                </div>
+                            </div>
+                        </Animate>
+                    </div>
+                    
                     <Animate play duration={.5} delay={0}
                     start={{transform : "translateY(1000px)"}}
                     end={{transform : "translateY(0px)"}}>

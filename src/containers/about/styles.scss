@@ -56,14 +56,58 @@
         &__image-wrapper{
             justify-content: center;
             align-items: center;
-            img{
+
+            .image-wrapper__content{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .image-bg{
+                width: 350px;
+                height: 350px;
+                background-image: url("/assets/images/passportphoto.jpg"),  radial-gradient(circle at center, #fff, #00000090);
+                background-size: cover;
                 border-radius: 50%;
-                width: 50%;
+                background-blend-mode: multiply;
+                margin-top: 20px;
+                margin-bottom: 20px;
             }
 
             .image-wrapper{
-                padding-bottom: 20px;
-                border-bottom: 1px solid #2a2c22;
+                
+                border-radius: 50%;
+                width: 350px;
+                height: 350px;
+                transform-origin: center;
+                position: relative;
+                animation: rotation 10s ease 1s infinite;
+
+                div:nth-child(1){
+                    position: absolute;
+                    top: -9%;
+                    left: 41%;
+                }
+
+                div:nth-child(2){
+                    position: absolute;
+                    right: -8%;
+                    top: 41.5%
+                }
+
+                div:nth-child(3){
+                    position: absolute;
+                    bottom: -10%;
+                    left: 41%;
+                }
+
+                div:nth-child(4){
+                    position: absolute;
+                    left: -8%;
+                    top: 41%;
+                }
+
+
             }
 
             h3{
@@ -106,3 +150,10 @@
         border-bottom: 1px solid #2a2c22;
     }
   }
+
+@keyframes rotation {
+    100%{
+        transform: rotate(-360deg);
+    }
+    
+}
