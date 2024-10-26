@@ -20,6 +20,13 @@
         &__logo{
             color: var(--main-theme-main-color);
             cursor: pointer;
+            
+            img{
+                width: 35px;
+                height: 35px;
+                border-radius: 50%;
+            }
+            
         }
 
         &__menu{

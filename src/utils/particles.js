@@ -28,7 +28,7 @@ export default {
       },
       move: {
         enable: true,
-        speed: .3, // Control the particle movement speed
+        speed: .5, // Control the particle movement speed
         direction: "none", // Set the movement direction (e.g., "none", "top", "bottom", "left", "right")
       },
     },
