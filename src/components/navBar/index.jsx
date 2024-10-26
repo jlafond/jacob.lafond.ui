@@ -13,10 +13,10 @@ const data = [
         label: "About",
         to: "/about"
     },
-    {
-        label: "Reviews",
-        to: "/reviews"
-    },
+    // {
+    //     label: "Reviews",
+    //     to: "/reviews"
+    // },
     {
         label: "Resume",
         to: "/resume"
@@ -45,7 +45,7 @@ const NavBar = () => {
             <nav className="navbar">
                 <div className="navbar__container">
                     <Link to="/" className="navbar__container__logo">
-                        <FaReact size={30} />
+                        <img className="iconImage" src="./images/passportphoto.jpg"></img>
                     </Link>
                 </div>
                 <ul className={`navbar__container__menu ${toggleIcon ? 'active' : ''}`}>
