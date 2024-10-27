@@ -16,7 +16,7 @@ function App() {
 
   const location = useLocation();
 
-  const renderParticleInHomePage = location.pathname === "/";
+  const renderParticleInHomePage =  location.pathname === "/";
 
   const [init, setInit] = useState(false);
 
