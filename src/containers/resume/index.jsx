@@ -30,7 +30,8 @@ const Resume =()=>{
                             contentStyle={{
                                 background: 'none',
                                 color: 'var(--main-theme-main-color)',
-                                border: '1.5px solid var(--main-theme-main-color)'
+                                border: '1px solid var(--main-theme-main-color)',
+                                boxShadow: '5px 10px 10px 5px #cad6f220'
                             }}
                             date={item.date}
                             icon={<MdWork/>}
@@ -75,7 +76,8 @@ const Resume =()=>{
                             contentStyle={{
                                 background: 'none',
                                 color: 'var(--main-theme-main-color)',
-                                border: '1.5px solid var(--main-theme-main-color)'
+                                border: '1px solid var(--main-theme-main-color)',
+                                boxShadow: '5px 10px 10px 5px #cad6f220'
                             }}
                             date={item.date}
                             icon={<FaUniversity/>}
