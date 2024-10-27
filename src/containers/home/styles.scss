@@ -9,7 +9,9 @@
     &__social{
 
         padding: 20px;
-
+        text-align: center;
+        display: flex;
+        
         &__icons{
             color: var(--main-theme-main-color);
             cursor: pointer;

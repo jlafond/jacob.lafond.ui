@@ -1,3 +1,20 @@
+.header{
+    color: var(--main-theme-main-color);
+    padding: 30px;
+    font-size: 2rem;
+    display: flex;
+
+    .headerText{
+        padding: 20px;
+    }
+
+    .header-icon{
+        color: var(--main-theme-main-color);
+        cursor: pointer;
+        padding: 20px;
+    }
+}
+
 .resume{
     height: 100%;
 }
@@ -74,6 +91,9 @@
             width: 100%;
             gap: 2rem;
         }
+    }
 
+    .header{
+        display: inline-block;
     }
 }

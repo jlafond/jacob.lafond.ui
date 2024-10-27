@@ -5,7 +5,8 @@ import { data } from "./utils";
 import "react-vertical-timeline-component/style.min.css";
 import "./styles.scss";
 import { MdWork } from 'react-icons/md';
-import { FaUniversity } from 'react-icons/fa';
+import { FaUniversity, FaLinkedinIn } from 'react-icons/fa';
+import { Link } from "react-router-dom";
 
 
 const Resume =()=>{
@@ -13,6 +14,15 @@ const Resume =()=>{
     return(
         <section id="resume" className="resume">
              <PageHeaderContent headerText="My Resume"/>
+
+             <div className="header">
+                <div className="headerText">
+                    For more information regarding experiences please visit my LinkedIn page: 
+                </div>
+                <Link to="https://www.linkedin.com/in/jacob-lafond/" className="header-icon">
+                    <FaLinkedinIn size={30} />
+                </Link>
+            </div>
 
             <div className="timeline">
                 <div className="timeline__experience">

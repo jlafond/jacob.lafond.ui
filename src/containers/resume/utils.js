@@ -4,14 +4,14 @@ export const data = {
             title: "Senior Software Engineer",
             company: "Dell Technologies",
             location: "Remote, US",
-            description: "Search Team, Distributed Systems, Event Driven Architecture",
+            description: "Search Team, Distributed Systems, Event Driven Architecture, Elasticsearch, .Net 8, RabbitMQ, Kafka, Kubernetes",
             date: "2021 - Present"
         },
         {
             title: "Software Engineer",
             company: "Dealeron inc.",
             location: "Derwood, MD",
-            description: "Fullstack, .NET Core + VueJS",
+            description: "Fullstack, .NET Core + VueJS, Azure",
             date: "2017 - 2021"
         },
         {
