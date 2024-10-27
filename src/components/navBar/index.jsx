@@ -45,7 +45,7 @@ const NavBar = () => {
             <nav className="navbar">
                 <div className="navbar__container">
                     <Link to="/" className="navbar__container__logo">
-                        <img className="iconImage" src="./images/passportphoto.jpg" alt="My logo"></img>
+                        <img className="iconImage" src="./images/logo.jpg" alt="My logo"></img>
                     </Link>
                 </div>
                 <ul className={`navbar__container__menu ${toggleIcon ? 'active' : ''}`}>
