@@ -45,13 +45,13 @@ const NavBar = () => {
             <nav className="navbar">
                 <div className="navbar__container">
                     <Link to="/" className="navbar__container__logo">
-                        <img className="iconImage" src="./images/passportphoto.jpg"></img>
+                        <img className="iconImage" src="./images/passportphoto.jpg" alt="My logo"></img>
                     </Link>
                 </div>
                 <ul className={`navbar__container__menu ${toggleIcon ? 'active' : ''}`}>
                     {
-                        data.map((item) => (
-                            <li className="navbar__container__menu__item">
+                        data.map((item, i) => (
+                            <li key={i} className="navbar__container__menu__item">
                                 <Link onClick={handletoggleIcon} className="navbar__container__menu__item__links" to={item.to}>
                                     {item.label}
                                 </Link>
