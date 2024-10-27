@@ -2,6 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Animate } from "react-simple-animate";
 import { FaLinkedinIn, FaGithub, FaInstagram } from 'react-icons/fa';
+import { FaXTwitter } from 'react-icons/fa6';
 import { Link } from "react-router-dom";
 
 import "./styles.scss";
@@ -46,6 +47,9 @@ const Home = () => {
                     </Link>
                     <Link to="https://www.instagram.com/jacoblafond/" className="home__social__icons">
                         <FaInstagram size={30} />
+                    </Link>
+                    <Link to="https://x.com/_jacobLafond" className="home__social__icons">
+                        <FaXTwitter size={30} />
                     </Link>
                 </div>
             </Animate>
