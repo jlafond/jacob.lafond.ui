@@ -49,6 +49,7 @@ function App() {
       <div className='App__main-page-content'>
         <Routes>
           <Route index path="/" element={ <Home /> } />
+          <Route path="/jacob.lafond.ui" element={ <Home /> } />
           <Route path="/about" element={ <About /> } />
           <Route path="/reviews" element={ <Reviews /> } />
           <Route path="/resume" element={ <Resume /> }  />
