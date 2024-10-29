@@ -16,9 +16,7 @@ function App() {
 
   const location = useLocation();
 
-  const renderParticleInHomePage =  location.pathname === "/";
-
-  console.log(location.pathname);
+  const renderParticleInHomePage =  location.pathname === "/" || location.pathname === "/jacob.lafond.ui/";
 
   const [init, setInit] = useState(false);
 
@@ -51,7 +49,7 @@ function App() {
       <div className='App__main-page-content'>
         <Routes>
           <Route index path="/" element={ <Home /> } />
-          <Route path="/jacob.lafond.ui" element={ <Home /> } />
+          <Route path="/jacob.lafond.ui/" element={ <Home /> } />
           <Route path="/about" element={ <About /> } />
           <Route path="/reviews" element={ <Reviews /> } />
           <Route path="/resume" element={ <Resume /> }  />
