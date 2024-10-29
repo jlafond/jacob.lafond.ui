@@ -18,6 +18,8 @@ function App() {
 
   const renderParticleInHomePage =  location.pathname === "/";
 
+  console.log(location.pathname);
+
   const [init, setInit] = useState(false);
 
   useEffect(() => {
