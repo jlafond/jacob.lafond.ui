@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lafond.family/static/css/main.0d320df9.css",
-    "main.js": "/lafond.family/static/js/main.98808fae.js",
-    "static/js/453.93ba7af0.chunk.js": "/lafond.family/static/js/453.93ba7af0.chunk.js",
-    "static/media/self-image.jpg": "/lafond.family/static/media/self-image.e8311ff0749dced04bf2.jpg",
-    "index.html": "/lafond.family/index.html",
-    "main.0d320df9.css.map": "/lafond.family/static/css/main.0d320df9.css.map",
-    "main.98808fae.js.map": "/lafond.family/static/js/main.98808fae.js.map",
-    "453.93ba7af0.chunk.js.map": "/lafond.family/static/js/453.93ba7af0.chunk.js.map"
+    "main.css": "/jacob.lafond.ui/static/css/main.c51a7c47.css",
+    "main.js": "/jacob.lafond.ui/static/js/main.de4277bb.js",
+    "static/js/453.93ba7af0.chunk.js": "/jacob.lafond.ui/static/js/453.93ba7af0.chunk.js",
+    "static/media/self-image.jpg": "/jacob.lafond.ui/static/media/self-image.e8311ff0749dced04bf2.jpg",
+    "index.html": "/jacob.lafond.ui/index.html",
+    "main.c51a7c47.css.map": "/jacob.lafond.ui/static/css/main.c51a7c47.css.map",
+    "main.de4277bb.js.map": "/jacob.lafond.ui/static/js/main.de4277bb.js.map",
+    "453.93ba7af0.chunk.js.map": "/jacob.lafond.ui/static/js/453.93ba7af0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d320df9.css",
-    "static/js/main.98808fae.js"
+    "static/css/main.c51a7c47.css",
+    "static/js/main.de4277bb.js"
   ]
 }
