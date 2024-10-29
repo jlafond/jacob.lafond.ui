@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jacob.lafond.ui/static/css/main.c51a7c47.css",
+    "main.js": "/jacob.lafond.ui/static/js/main.51902581.js",
+    "static/js/453.93ba7af0.chunk.js": "/jacob.lafond.ui/static/js/453.93ba7af0.chunk.js",
+    "static/media/self-image.jpg": "/jacob.lafond.ui/static/media/self-image.e8311ff0749dced04bf2.jpg",
+    "index.html": "/jacob.lafond.ui/index.html",
+    "main.c51a7c47.css.map": "/jacob.lafond.ui/static/css/main.c51a7c47.css.map",
+    "main.51902581.js.map": "/jacob.lafond.ui/static/js/main.51902581.js.map",
+    "453.93ba7af0.chunk.js.map": "/jacob.lafond.ui/static/js/453.93ba7af0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c51a7c47.css",
+    "static/js/main.51902581.js"
+  ]
+}

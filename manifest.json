@@ -1,0 +1,25 @@
+{
+  "short_name": "Jacob Lafond Homepage",
+  "name": "Jacob Lafond's Online Resume",
+  "icons": [
+    {
+      "src": "images/logo.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/logo.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/logo.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#cad6f2",
+  "background_color": "#060809"
+}
