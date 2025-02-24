@@ -36,7 +36,7 @@ const Home = () => {
             }}
             >
                 <div className="home__contact-me">
-                    <button onClick={handleNavigateToContactMePage} >Hire Me</button>
+                    <button onClick={handleNavigateToContactMePage}>Let's talk</button>
                 </div>
                 <div className="home__social">
                     <Link to="https://www.linkedin.com/in/jacob-lafond/" className="home__social__icons">

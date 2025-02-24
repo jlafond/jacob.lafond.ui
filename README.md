@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+# Personal webpage for me, Jacob Lafond
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Perhaps you are here directly from my site, if not then check it out: http://www.jacoblafond.com
 
-## Available Scripts
+## About the site
 
-In the project directory, you can run:
+Please find source code here, site is built using React.js and SCSS.
 
-### `npm start`
+## About me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Jacob Lafond
+Senior Software Engineer at Dell Technologies
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Summary
 
-### `npm test`
+Innovative, full-stack software engineer with over ten (10) years of experience enhancing and building 
+software products in fast-paced, direct-to-consumer environments. Highly proficient in providing practical 
+solutions throughout the entire software development lifecycle, alongside implementing innovative tools to 
+ensure efficiency and offering solid expertise in troubleshooting skills. Seeking to draw on development skills 
+by enhancing and improving applications; and thriving best within a highly skilled, diverse organization with a 
+strong team dynamic.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Technical Skills
 
-### `npm run build`
+**Backend:** .NET Framework, .NET Core, C#, Elasticsearch, Python, SQL Server, T-SQL, RabbitMQ, Kafka, 
+Kubernetes, Docker, MongoDB, NUnit, Dapper, SOAP, XML, JSON, Dapper 
+**Frontend:** React.js, HTML, CSS, JavaScript, jQuery, Blazor, Vue.Js 
+**Other:** Git, REST API, Scrum and Agile Methodologies, CI/CD, Microservice Architecture, Event Driven 
+Architecture, SOA, SaaS. Github Co-Pilot, Codeium 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Experience
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**DELL TECHNOLOGIES**
+_SENIOR SOFTWARE ENGINEER_
+OCTOBER 2021 - PRESENT 
+REMOTE, US 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Developed scalable, high-availability systems in an Agile team, powering search engine APIs for 
+global top 10 grossing ecommerce platforms. 
+- Improved conversion rates and revenue through enhanced search results relevancy by designing 
+and developing a .NET Core application using C# to import and process millions of analytics data 
+sets. 
+- Managed technical support spanning entire Search platform, collaborating directly with business 
+stakeholders and IT teams to drive incident resolution. 
+- Oversaw the development of a new REST API utilizing Elasticsearch queries for a B2B search 
+results page for a new product type. 
+- Achieved real time product stock status and B2B store catalog updates by consuming Kafka 
+topics and RabbitMQ queues published from multiple sources, processing millions of events 
+daily. 
+- Led in designing and building .NET Blazor SPA for visual prototyping of new search experiences 
+and relevancy model testing. 
+- Monitored CI/CD pipelines, improved application maturity, and managed Kubernetes 
+deployments to ensure seamless integration and delivery, reducing vulnerabilities by 90%.
 
-### `npm run eject`
+**DEALERON, INC** 
+_SOFTWARE ENGINEER_ 
+JULY 2017 - OCTOBER 2021 
+DERWOOD, MD
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Developed sustainable, scalable, well-tested code for SaaS applications, driving innovation as one of 
+the nation’s leaders in the digital automotive industry, serving over 4000 dealerships in North America.  
+- Collaborated within a Scrum team, participating in ceremonies throughout the entire SDLC. 
+- Provided technical guidance and expertise in modernizing an in-house CMS from ASP to RESTful 
+C# .NET Core API, Dapper with SQL Server DB, and a Vue.js frontend. 
+- Rearchitected a data delivery system from a monolith to event-driven microservices, utilizing Azure 
+Service Bus Queue to limit complexity and increase scalability. Enabling seamless integration while 
+expanding the customer base by 200%. 
+- Packaged data imported by third-party APIs to produce comprehensive analytics reports, offering 
+customers detailed insights into website and ad campaign performance.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**ALABAMA DEPARTMENT OF TRANSPORTATION**
+_SOFTWARE DEVELOPER_
+FEBRUARY 2015 - JULY 2017 
+MONTGOMERY, AL 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Developed new features for an ASP.NET MVC application with an Oracle SQL database to track, 
+manage, and maintain information regarding contracts, construction, materials, and 
+certifications for state-managed projects. 
+- Led the design and development of a cross-platform mobile and tablet application using Xamarin 
+and SQLite database, bringing features from the main platform to mobile users for managing 
+projects away from the desktop. 
+- Enhanced customer satisfaction by communicating directly with customers and business 
+analysts to gather requirements for new feature development within an Agile workflow. 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**UNITEDHEALTHCARE GLOBAL** 
+_SOFTWARE DEVELOPER_ 
+JULY 2014 - JANUARY 2015 
+MINNEAPOLIS, MN 
 
-## Learn More
+- Collaborated with an international team to architect, design, and build an ASP.NET MVC application 
+using C#, Razor, HTML, and jQuery to serve as a self-service portal for all UHG members and providers. 
+- Coordinated communication between offshore development team, business, and external parties as 
+the only onsite (US) developer, ensuring all technical blocks were resolved to keep the project on 
+track. 
+- Drafted UML diagrams to document system architecture, use cases, and flow charts, effectively 
+communicating with business users, IT managers, and the team to ensure a comprehensive 
+understanding of how the system is built, functions, and integrates within the business ecosystem. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Education
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**West Virginia University**
+_B.S. Computer Engineering_ 
+2009 - 2013 
+Morgantown, WV 
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**West Virginia University** 
+_B.S. Biometric Systems_
+2009 - 2013 
+Morgantown, WV
