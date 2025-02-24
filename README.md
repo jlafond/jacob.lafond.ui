@@ -30,12 +30,9 @@ Architecture, SOA, SaaS. Github Co-Pilot, Codeium
 
 ### Experience
 
-**DELL TECHNOLOGIES**
-
-_SENIOR SOFTWARE ENGINEER_
-
-OCTOBER 2021 - PRESENT 
-
+**DELL TECHNOLOGIES** <br>
+_SENIOR SOFTWARE ENGINEER_ <br>
+OCTOBER 2021 - PRESENT <br>
 REMOTE, US 
 
 - Developed scalable, high-availability systems in an Agile team, powering search engine APIs for 
@@ -55,12 +52,9 @@ and relevancy model testing.
 - Monitored CI/CD pipelines, improved application maturity, and managed Kubernetes 
 deployments to ensure seamless integration and delivery, reducing vulnerabilities by 90%.
 
-**DEALERON, INC** 
-
-_SOFTWARE ENGINEER_ 
-
-JULY 2017 - OCTOBER 2021 
-
+**DEALERON, INC** <br>
+_SOFTWARE ENGINEER_ <br>
+JULY 2017 - OCTOBER 2021 <br>
 DERWOOD, MD
 
 - Developed sustainable, scalable, well-tested code for SaaS applications, driving innovation as one of 
@@ -74,12 +68,9 @@ expanding the customer base by 200%.
 - Packaged data imported by third-party APIs to produce comprehensive analytics reports, offering 
 customers detailed insights into website and ad campaign performance.
 
-**ALABAMA DEPARTMENT OF TRANSPORTATION**
-
-_SOFTWARE DEVELOPER_
-
-FEBRUARY 2015 - JULY 2017 
-
+**ALABAMA DEPARTMENT OF TRANSPORTATION** <br>
+_SOFTWARE DEVELOPER_ <br>
+FEBRUARY 2015 - JULY 2017 <br>
 MONTGOMERY, AL 
 
 - Developed new features for an ASP.NET MVC application with an Oracle SQL database to track, 
@@ -91,12 +82,9 @@ projects away from the desktop.
 - Enhanced customer satisfaction by communicating directly with customers and business 
 analysts to gather requirements for new feature development within an Agile workflow. 
 
-**UNITEDHEALTHCARE GLOBAL** 
-
-_SOFTWARE DEVELOPER_ 
-
-JULY 2014 - JANUARY 2015 
-
+**UNITEDHEALTHCARE GLOBAL** <br>
+_SOFTWARE DEVELOPER_ <br>
+JULY 2014 - JANUARY 2015 <br>
 MINNEAPOLIS, MN 
 
 - Collaborated with an international team to architect, design, and build an ASP.NET MVC application 
@@ -110,19 +98,13 @@ understanding of how the system is built, functions, and integrates within the b
 
 ### Education
 
-**West Virginia University**
-
-_B.S. Computer Engineering_ 
-
-2009 - 2013 
-
+**West Virginia University** <br>
+_B.S. Computer Engineering_ <br>
+2009 - 2013 <br>
 Morgantown, WV 
 
 
-**West Virginia University** 
-
-_B.S. Biometric Systems_
-
-2009 - 2013 
-
+**West Virginia University** <br>
+_B.S. Biometric Systems_ <br>
+2009 - 2013 <br>
 Morgantown, WV
