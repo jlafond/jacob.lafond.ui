@@ -24,15 +24,18 @@ strong team dynamic.
 
 **Backend:** .NET Framework, .NET Core, C#, Elasticsearch, Python, SQL Server, T-SQL, RabbitMQ, Kafka, 
 Kubernetes, Docker, MongoDB, NUnit, Dapper, SOAP, XML, JSON, Dapper 
-**Frontend:** React.js, HTML, CSS, JavaScript, jQuery, Blazor, Vue.Js 
+**Frontend:** React.js, Node.js, HTML, CSS, JavaScript, jQuery, Blazor, Vue.Js 
 **Other:** Git, REST API, Scrum and Agile Methodologies, CI/CD, Microservice Architecture, Event Driven 
 Architecture, SOA, SaaS. Github Co-Pilot, Codeium 
 
 ### Experience
 
 **DELL TECHNOLOGIES**
+
 _SENIOR SOFTWARE ENGINEER_
+
 OCTOBER 2021 - PRESENT 
+
 REMOTE, US 
 
 - Developed scalable, high-availability systems in an Agile team, powering search engine APIs for 
@@ -53,8 +56,11 @@ and relevancy model testing.
 deployments to ensure seamless integration and delivery, reducing vulnerabilities by 90%.
 
 **DEALERON, INC** 
+
 _SOFTWARE ENGINEER_ 
+
 JULY 2017 - OCTOBER 2021 
+
 DERWOOD, MD
 
 - Developed sustainable, scalable, well-tested code for SaaS applications, driving innovation as one of 
@@ -69,8 +75,11 @@ expanding the customer base by 200%.
 customers detailed insights into website and ad campaign performance.
 
 **ALABAMA DEPARTMENT OF TRANSPORTATION**
+
 _SOFTWARE DEVELOPER_
+
 FEBRUARY 2015 - JULY 2017 
+
 MONTGOMERY, AL 
 
 - Developed new features for an ASP.NET MVC application with an Oracle SQL database to track, 
@@ -83,8 +92,11 @@ projects away from the desktop.
 analysts to gather requirements for new feature development within an Agile workflow. 
 
 **UNITEDHEALTHCARE GLOBAL** 
+
 _SOFTWARE DEVELOPER_ 
+
 JULY 2014 - JANUARY 2015 
+
 MINNEAPOLIS, MN 
 
 - Collaborated with an international team to architect, design, and build an ASP.NET MVC application 
@@ -99,11 +111,18 @@ understanding of how the system is built, functions, and integrates within the b
 ### Education
 
 **West Virginia University**
+
 _B.S. Computer Engineering_ 
+
 2009 - 2013 
+
 Morgantown, WV 
 
+
 **West Virginia University** 
+
 _B.S. Biometric Systems_
+
 2009 - 2013 
+
 Morgantown, WV
