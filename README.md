@@ -4,7 +4,7 @@ Perhaps you are here directly from my site, if not then check it out: http://www
 
 ## About the site
 
-Please find source code here, site is built using React.js and SCSS.
+Please find source code here, site is built using React.js and SCSS. Deployed and hosted via Github pages.
 
 ## About me
 

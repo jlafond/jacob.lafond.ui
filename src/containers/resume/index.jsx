@@ -5,7 +5,7 @@ import { data } from "./utils";
 import "react-vertical-timeline-component/style.min.css";
 import "./styles.scss";
 import { MdWork } from 'react-icons/md';
-import { FaUniversity, FaLinkedinIn } from 'react-icons/fa';
+import { FaUniversity, FaLinkedinIn, FaGithub } from 'react-icons/fa';
 import { Link } from "react-router-dom";
 
 
@@ -17,10 +17,13 @@ const Resume =()=>{
 
              <div className="header">
                 <div className="headerText">
-                    For more information regarding experiences please visit my LinkedIn page: 
+                    For more information regarding experiences please visit my page and readme 
                 </div>
                 <Link to="https://www.linkedin.com/in/jacob-lafond/" className="header-icon">
                     <FaLinkedinIn size={30} />
+                </Link>
+                <Link to="https://github.com/jlafond/jacob.lafond.ui" className="header-icon">
+                    <FaGithub size={30} />
                 </Link>
             </div>
 
